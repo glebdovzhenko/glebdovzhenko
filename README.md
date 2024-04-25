@@ -7,11 +7,11 @@
 
 ## Featured projects
 ### My baby from the times at Hereon: [P61AToolkit](https://github.com/hereon-GEMS/P61AToolkit)
-This is a piece of user software that enables the energy-dispersive diffraction data analysis at [P61A beamlne at PETRA III](https://photon-science.desy.de/facilities/petra_iii/beamlines/p61_high_energy_wiggler_beamline_lvp/p61a_white_beam_engineering_materials_science_hereon/index_eng.html).
+This is a piece of user software that enables energy-dispersive diffraction data analysis at [P61A beamlne at PETRA III](https://photon-science.desy.de/facilities/petra_iii/beamlines/p61_high_energy_wiggler_beamline_lvp/p61a_white_beam_engineering_materials_science_hereon/index_eng.html).
 We have a website with its [main features](https://hereon-gems.github.io/P61AToolkit/introduction.html) and some [tutorials with screenshots](https://hereon-gems.github.io/P61AToolkit/viewer/tut_tth_cal.html).
 
 ### My old, old set of lab excercises for [neutron scattering students at SPbSU](https://nsp.phys.spbu.ru/en/): [NeutronLab](https://github.com/glebdovzhenko/NeutronLab)
-A set of UIs emulating the basic functions of several beamlines at IR-8. Allows the students to do introduction-level labwork without the hassle of actually going to a nuclear reactor.
+A set of UIs emulating the basic functions of several beamlines at IR-8 research reactor at NRC KI. Allows the students to do introductory level labwork without the hassle of actually going to a nuclear reactor.
 
 ### My fresh, fresh course on data analysis in Python for 1st year bachelors at [NSTU](https://ciu.nstu.ru/kaf/mm): [pycourse01](https://github.com/glebdovzhenko/pycourse01)
 If you are reading this during spring semester of 2024, it is so fresh, that it's not even finished yet 🙄. Updates every week or so!
